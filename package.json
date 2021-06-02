@@ -43,7 +43,7 @@
     "node-etcd": "^7.0.0",
     "object-hash": "^2.2.0",
     "pino": "^6.11.3",
-    "pino-pretty": "^5.0.1",
+    "pino-pretty": "^5.0.2",
     "safetimeout": "^0.1.2",
     "spdy": "^4.0.2",
     "valid-url": "^1.0.9"
