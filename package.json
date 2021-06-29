@@ -43,7 +43,7 @@
     "node-etcd": "^7.0.0",
     "object-hash": "^2.2.0",
     "pino": "^6.11.3",
-    "pino-pretty": "^5.0.2",
+    "pino-pretty": "^5.1.0",
     "safetimeout": "^0.1.2",
     "spdy": "^4.0.2",
     "valid-url": "^1.0.9"
@@ -56,7 +56,7 @@
     "mocha": "^9.0.1",
     "needle": "^2.6.0",
     "node-gyp": "^8.1.0",
-    "prettier": "^2.3.1",
+    "prettier": "^2.3.2",
     "run-verify": "^1.2.6"
   },
   "prettier": {
