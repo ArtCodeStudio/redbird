@@ -53,8 +53,8 @@
     "electrode-server": "^3.3.0",
     "gulp": "^4.0.2",
     "gulp-eslint": "^6.0.0",
-    "mocha": "^9.0.1",
-    "needle": "^2.6.0",
+    "mocha": "^9.0.2",
+    "needle": "^2.7.0",
     "node-gyp": "^8.1.0",
     "prettier": "^2.3.2",
     "run-verify": "^1.2.6"
